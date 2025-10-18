@@ -129,7 +129,7 @@ export default function CoursesScreen() {
 const styles = StyleSheet.create({
   header: { fontSize: 22, fontWeight: "700", color: "#1565C0", marginBottom: 10 },
   card: {
-    backgroundColor: "#E8F5E9",
+    backgroundColor: "#E3F2FD",
     padding: 14,
     borderRadius: 10,
     marginVertical: 8,

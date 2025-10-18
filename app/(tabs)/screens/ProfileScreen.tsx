@@ -32,7 +32,7 @@ export default function ProfileScreen() {
         <View style={styles.profileHeader}>
           <Image
             source={{
-              uri: "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+              uri: "https://cdn-icons-png.flaticon.com/512/6997/6997662.png",
             }}
             style={styles.avatar}
           />
